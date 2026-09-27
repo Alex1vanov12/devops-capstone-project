@@ -1,6 +1,6 @@
 ---
-name: Issue template
-about: Describe this issue template's purpose here.
+name: user-story.md
+about: Template for User-stories.
 title: ''
 labels: ''
 assignees: ''
